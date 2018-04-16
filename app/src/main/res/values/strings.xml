@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Autocomplete</string>
+
+    <string-array name="autoComplete">
+        <item>Aepfel</item>
+        <item>Bananen</item>
+        <item>CDs</item>
+        <item>Dtest</item>
+        <item>Etest</item>
+    </string-array>
+</resources>
